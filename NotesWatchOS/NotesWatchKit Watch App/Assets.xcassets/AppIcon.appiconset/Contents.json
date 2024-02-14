@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "free-notes-2844896-2365245.png",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
